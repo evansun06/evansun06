@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **Gin/Go + Postgres/SQL**
 
-- 👋 Lets Connect! [www.linkedin.com/in/evan-s-5a5bb8284](www.linkedin.com/in/evan-s-5a5bb8284)
 
 - 📫 How to reach me **evansun06@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/evan sun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan sun" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/evan-s-5a5bb8284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan sun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
