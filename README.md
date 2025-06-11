@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working with Gin and Postgres on [`movie-restful-api`](https://github.com/evansun06/movie-restful-api)
 
-- 🌱 I’m currently learning **Gin/Go + Postgres/SQL**
-
+- 🌱 A project I'm excited to share is [`spotify-nebula`](https://github.com/evansun06/spotify-nebula): a webapp to visualize your music taste in a out-of-this-world way!
 
 - 📫 How to reach me **evansun06@outlook.com**
 
