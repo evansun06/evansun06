@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 <h3 align="center">An aspiring software engineer and data enthusiast.</h3>
 
-- 🌱 A project I'm excited to share is [`spotify-nebula`](https://github.com/evansun06/spotify-nebula): a webapp to visualize your music taste in a out-of-this-world way!
+- 🌱 A project I'm excited to share is [`Harkonnen`](https://github.com/evansun06/harkonnen): A NLP platform for correlating relevant financial insights to social media!
 
-- 💻 I’m currently learning **ThreeJS**
+- 💻 I’m currently learning about concurrency in C
 
 - 👋 Lets Connect! [www.linkedin.com/in/evan-s-5a5bb8284](www.linkedin.com/in/evan-s-5a5bb8284)
 
