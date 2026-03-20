@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<h3 align="left">Frameworks / Libraries</h3>
+<h4 align="left">Frameworks / Libraries</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
